@@ -1,0 +1,42 @@
+//Plain
+
+// @font-face {
+//     font-family: "Plain-SemiBold";
+//     src: url("../fonts/SFProDisplay/SFProDisplay-Semibold.woff") format("truetype");
+// }
+@font-face {
+    font-family: "Plain-SemiBold";
+    src: url("../fonts/Plain/Plain\ Medium.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Plain-Light";
+    src: url("../fonts/Plain/Plain\ Ultralight.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Plain-Regular";
+    src: url("../fonts/Plain/Plain\ Regular.otf") format("truetype");
+}
+
+//SFUIDisplay
+
+@font-face {
+    font-family: "SFUIDisplay-Light";
+    src: url("../fonts/SFULDisplay/sf-ui-display-light-58646b33e0551.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "SFUIDisplay-Regular";
+    src: url("../fonts/SFULDisplay/SFUIDisplay-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "SFUIDisplay-SemiBold";
+    src: url("../fonts/SFULDisplay/sf-ui-display-semibold-58646eddcae92.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "SFUIDisplay-Bold";
+    src: url("../fonts/SFULDisplay/sf-ui-display-bold-58646a511e3d9.otf") format("truetype");
+}
